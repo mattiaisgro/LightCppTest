@@ -1,5 +1,5 @@
 # LightCppTest
-A simple testing utility for little C++ projects
+A simple, header-only, single file, testing utility for little C++ projects
 
 ## How to use
 **example.cpp** contains example usage.
